@@ -206,4 +206,4 @@ license of this repository is compatible with both.
 
 ## Citation
 
-Cite the original code: [![DOI](https://zenodo.org/badge/623661351.svg)](https://zenodo.org/doi/10.5281/zenodo.13774782)
+Original code: [![DOI](https://zenodo.org/badge/623661351.svg)](https://zenodo.org/doi/10.5281/zenodo.13774782)
